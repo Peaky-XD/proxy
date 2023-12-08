@@ -12,8 +12,6 @@ This repository offers a diverse range of proxies for different purposes. Feel f
 - Clone the repository: `git clone https://github.com/Peaky-XD/proxy.git`
 - Browse the available proxies in the repository.
 
-## Contribute
-Contributions are welcome! If you have additional proxies to share, please follow the contribution guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Community
 Join our Telegram group to stay updated and connect with other users.
